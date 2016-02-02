@@ -9,7 +9,17 @@
  - Sign in with Google \n
  - Accept the conditions \n
  2. UNDUH APLIKASI: https://play.google.com/store/apps/details?id=it.rignanese.leo.slimfacebook </string>
-    <string name="information">Informasi</string>
+    <string name="prefCat_fb_settings_title">Pengaturan Facebook</string>
+    <string name="prefCat_app_settings_title">Pengaturan Aplikasi</string>
+    <string name="prefCat_app_information_title">Informasi Aplikasi</string>
+    <string name="title_blackTheme">Tema Gelap</string>
+    <string name="summary_blackTheme">Latar Belakang Gelap Dengan Teks Putih. (Sangat Bagus untuk layar AMOLED)</string>
+    <string name="title_hideSponsoredPosts">Jangan tampilkan Postingan iklan</string>
+    <string name="summary_hideSponsoredPosts">Tidak ada lagi postingan iklan!</string>
+    <string name="title_downloadImages">Simpan Data (Butuh Restart)</string>
+    <string name="summary_downloadImages">Jangan unduh gambar</string>
+    <string name="title_selectTheme">Pilih tema</string>
+    <string name="summary_selectTheme">Pilih tema favoritmu</string>
     <string name="openInBrowser">Buka dengan peramban</string>
     <string name="prefCat_app_settings_title">Pengaturan Aplikasi</string>
     <string name="prefCat_fb_settings_title">Pengaturan Facebook</string>
